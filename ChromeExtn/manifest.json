@@ -1,0 +1,11 @@
+{
+    "name": "Search Campuswire and Coursera",
+    "version": "1.0.0",
+    "description": "Search Campuswire and Coursera",
+    "manifest_version": 3,
+    "author": "Monika Thotha",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "CS410 - Search Campuswire and Coursera"
+    }
+}
